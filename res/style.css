@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  box-sizing: border-box;
+}
+
+.absolute_centre {  
+  position: absolute;
+  margin: auto;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+html {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 14px;
+}
+
+body {
+  background-color: #202020;
+}
+
+#cover {  
+  width: 200px;
+  height: 225px;
+}
+
+#cover > img {
+  width: 100%;
+}
+
+#cover > h3 {
+  text-align: center;
+  line-height: 50px;
+  color: #72876a;
+}
