@@ -20,20 +20,21 @@ html {
 }
 
 body {
-  background-color: #202020;
+  background-color: #EEF5F8;
 }
 
-#cover {  
-  width: 200px;
-  height: 250px;
+#cover {
+  text-align: center;
+  width: 300px;
+  height: 310px;
 }
 
 #cover > img {
-  width: 100%;
+  width: 200px;
 }
 
 #cover > h3 {
-  text-align: center;
+  margin-top: 20px;
   line-height: 50px;
-  color: #786960;
+  color: #a9b2b7;
 }
