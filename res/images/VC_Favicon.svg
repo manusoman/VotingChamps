@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132" height="132" viewBox="0 0 132 132">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="132" height="132" transform="translate(629 284)" fill="#fff"/>
+    </clipPath>
+    <filter id="Path_94" x="4.501" y="-3" width="126.999" height="142.005" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="-0.033" y1="0.355" x2="0.936" y2="0.395" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.349"/>
+      <stop offset="1" stop-opacity="0.251"/>
+    </linearGradient>
+  </defs>
+  <g id="VC_Favicon" transform="translate(-2023 -3350)">
+    <rect id="Rectangle_41" data-name="Rectangle 41" width="132" height="132" rx="16" transform="translate(2023 3350)" fill="#363645"/>
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(1394 3066)" clip-path="url(#clip-path)">
+      <g id="Group_69" data-name="Group 69">
+        <g id="Group_68" data-name="Group 68">
+          <g transform="matrix(1, 0, 0, 1, 629, 284)" filter="url(#Path_94)">
+            <path id="Path_94-2" data-name="Path 94" d="M-553.461-2681.082h-32.322L-569.6-2709.1l-16.121-27.98h32.276l16.167-28,16.137,27.952-.028.049h32.248l-16.15,28.03,16.148,27.972h-32.266l-16.134,28Z" transform="translate(603.43 2775.08)" fill="#fff"/>
+          </g>
+          <g id="Group_67" data-name="Group 67" transform="translate(509.5 -91)">
+            <path id="Path_90" data-name="Path 90" d="M83.872.074l.085,96.951L.043,48.475Z" transform="translate(161.402 371) rotate(30)" fill="#66f"/>
+            <path id="Path_91" data-name="Path 91" d="M1861.607-2382.95l-.025-.043L1893.813-2439h.124l24.161,14.112-33.531,58.077Z" transform="translate(-1692.246 2852)" fill="url(#linear-gradient)"/>
+            <path id="Path_92" data-name="Path 92" d="M21.249,102h0l1,0L38.417,74h63.661l16.166,28Z" transform="translate(115.754 367)" fill="#ff7c24"/>
+            <path id="Path_93" data-name="Path 93" d="M0,84H0L48.5,0,64.637,27.952,32.275,84Z" transform="translate(137.143 385)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
